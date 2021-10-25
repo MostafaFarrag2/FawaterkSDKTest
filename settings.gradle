@@ -1,0 +1,3 @@
+include ':fawaterk'
+include ':app'
+rootProject.name = "FawaterkTest"
